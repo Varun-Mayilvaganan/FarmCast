@@ -1,2 +1,2 @@
-# FarmCast
-Effective price prediction of commodities using the core features such as CPI(Consumer Price Index) and PPI(Producer Price Index)
+# ProdCast
+Effective price prediction of commodities using the core feature, CPI deflated by US
